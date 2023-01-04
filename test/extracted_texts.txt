@@ -1,0 +1,21 @@
+uid0178002c.msg:006e:0x000011D9:0034:1=Aw, what the hell, Zenji-san? We showed you the ticket to easy money. How'd ya screw yourself over even worse?
+uid0178002c.msg:0036:0x00001248:0040:2=I, I don't know... I just did what you told me, and...
+uid0178002c.msg:008b:0x0000127F:004c:3=Oh, you sayin' this is on me? Look, it's not my fault you don't get the system. And how else were you ever gonna pay off that initial loan?
+uid0178002c.msg:007f:0x0000130B:0058:4=We even lent you more to get you started and you still couldn't pull it off! Just how pathetic <i>are</i> you, old man? Hahaha!
+uid0178002c.msg:003e:0x0000138B:0064:5=But, the question still stands—how're you gonna pay us back?
+uid0178002c.msg:0048:0x000013CA:0070:6=I'm awfully sorry, fellas, but I don't have a single mon to my name now.
+uid0178002c.msg:0076:0x00001413:007c:7=Welp, sucks for you. If you can't uphold the contract on your own, then we've gotta send you somewhere to work it off.
+uid0178002c.msg:0043:0x0000148A:0088:8=Wait, what are you going to do with me!? Please, somebody! Help me!
+uid0178002c.msg:001d:0x000014CE:0094:9=Hold it right the hell there!
+uid0178002c.msg:003d:0x000014ED:00ac:10=Who in the... Oh, well if it isn't Miss Tatsu. Whaddaya want?
+uid0178002c.msg:0072:0x0000152B:00b8:11=I wanna know why you think you can drag Zenji-san off someplace. You've fucked around with my clients long enough!
+uid0178002c.msg:0075:0x0000159E:00c4:12=You simple or something? He owes us a boatload of money, so we're gettin' our use out of him. Not hard to understand.
+uid0178002c.msg:008b:0x00001614:00d0:13=And <i>you</i> should understand that you're forcing people into contracts illegally. Plus, if you take Zenji-san now, I'll never get paid.
+uid0178002c.msg:0086:0x000016A0:00dc:14=What do I care!? We've got signed contracts. He borrowed more than twice what he owes you. Bitch all you want—the guy's on our hook.
+uid0178002c.msg:0075:0x00001727:00e8:15=You are such a piece of shit... If it's really just about the money, what if I buy out Zenji-san's contract from you?
+uid0178002c.msg:0066:0x0000179D:00f4:16=Hah, mighty generous of you. Who'd have thunk there'd be a bleeding heart beneath that tough exterior?
+uid0178002c.msg:0075:0x00001804:0100:17=Well, you won't hear me complainin'. Go ahead and pay up, if you can. Of course, that'll be with compounded interest.
+uid0178002c.msg:002b:0x0000187A:010c:18=Hey, do you really have that kind of money?
+uid0178002c.msg:0045:0x000018A6:0118:19=Eh, not at the moment, but isn't this an easy enough place to get it?
+uid0178002c.msg:001f:0x000018ED:0130:20=Hang on, you want to win it...?
+                                                                
