@@ -6,4 +6,4 @@
 3. run command
     \> txt2json.py --json tips.bin.json --trans "res - Copy.txt" --out res.json
 
-4. check res.json                                                                                             
+4. check res.json                                                                                              
