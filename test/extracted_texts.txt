@@ -18,4 +18,4 @@ uid0178002c.msg:0075:0x00001804:0100:17=Well, you won't hear me complainin'. Go 
 uid0178002c.msg:002b:0x0000187A:010c:18=Hey, do you really have that kind of money?
 uid0178002c.msg:0045:0x000018A6:0118:19=Eh, not at the moment, but isn't this an easy enough place to get it?
 uid0178002c.msg:001f:0x000018ED:0130:20=Hang on, you want to win it...?
-                                                                                     
+                                                                                      
