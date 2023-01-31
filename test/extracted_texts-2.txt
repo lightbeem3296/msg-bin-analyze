@@ -18,4 +18,4 @@ uid0178002c_modified.msg:0099:0x00002C0B:0100:17= حسنًا، لن تسمعني
 uid0178002c_modified.msg:002c:0x00002CA5:010c:18= Hey, do you really have that kind of money?
 uid0178002c_modified.msg:0081:0x00002CD2:0118:19= أمم، ليس الآن، ولكن أليس هذا مكاناً سهلاً بما فيه الكفاية للحصول عليه؟
 uid0178002c_modified.msg:0035:0x00002D54:0130:20= انتظر، هل تريد أن تفوز بها...؟
-                                                                                                    
+                                                                                                     
